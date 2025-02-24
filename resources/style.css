@@ -49,7 +49,7 @@ footer {
 
 /* Goated: https://stackoverflow.com/questions/37088198/copyleft-symbol */
 #copyleft {
-	display:inline-block;
+	display: inline-block;
 	transform: rotate(180deg);
 }
 
